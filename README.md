@@ -1,2 +1,1 @@
-## Python API Challenge
-  Authored by _Zachary J. McCann_
+#### Statistical analysis of different facets of weather, and how they coorelate to latitude and longitude. The analysis investigated Temperature, Humidity, Cloudiness, and Wind Speed across randomly selected latitudes and longitudes.
